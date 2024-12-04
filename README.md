@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a third-year Computer Science student passiona
 - 🌍 **Location**: India
 - 🎓 **Education**: 
   - **TE Computer Science**: Vishwabharti Academy College Of Engineering (CGPA: 6.18, 2024)
-  - **HSC**: Mahatma Gandhi Junior College Ahmedpur (61.18%, 2022)
   - **SSC**: Mahatma Phule Vidyalaya Ahmedpur (81.80%, 2020)
 - ✨ **Interests**: Internships, Frontend Development, and Exploring New Technologies.
 
