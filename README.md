@@ -82,13 +82,7 @@
 
 ---
 
-## 🐍 Contribution Graph  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewitharjun214/snake-animation/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 💬 Let's Collaborate!  
 
