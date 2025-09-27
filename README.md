@@ -62,19 +62,27 @@
 
 ---
 
-## 📌 MERN Stack Projects  
+## 📌 MERN Stack Projects
 
-### 🧾 [Invoice & Inventory Management System (MERN)](https://github.com/codewitharjun214) *(Coming Soon)*  
+### 🧾 [Code Snippet Manager](https://github.com/codewitharjun214/Code-Snippet-Manager)
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
-> A full-featured business tool for managing inventory, customers, and invoices with secure login, CRUD operations, and real-time reporting.  
+A full-stack application that allows developers to save, organize, and search their favorite code snippets. Features include syntax highlighting, tagging, and dark mode for enhanced productivity.  
+🔗 [View Project](https://github.com/codewitharjun214/Code-Snippet-Manager)
 
-### 🛒 [KisanBazaar – Smart Farmer-to-Consumer Marketplace](https://github.com/codewitharjun214) *(Coming Soon)*  
-**Tech Stack**: MERN Stack + AI Integration  
-> Intelligent agricultural e-commerce platform connecting farmers with consumers. Includes product listing, cart system, AI-powered insights, and responsive UI.  
-
-### 📋 [Student Placement Management System (Full Stack)](https://github.com/codewitharjun214) *(Planned)*  
+### 🌾 [KisanBazaar – Smart Farmer Marketplace](https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace)
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
-> Smart placement portal with student registration, company listings, resume filtering, and admin dashboard.  
+A platform connecting farmers directly with consumers, eliminating middlemen. Features include product listings, secure login, and AI-powered insights to help farmers make smarter decisions.  
+🔗 [View Project](https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace)
+
+### 📝 [DevBlog – Personal Blogging Platform](https://github.com/codewitharjun214/DevBlog)
+**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
+A full-stack blogging platform where users can create posts, comment, and categorize content. Includes JWT authentication, responsive UI, and CRUD operations for seamless management.  
+🔗 [View Project](https://github.com/codewitharjun214/DevBlog)
+
+### 🌤️ [Weather Forecast App](https://github.com/codewitharjun214/-Weather-Forecast-App-)
+**Tech Stack**: React.js • OpenWeather API  
+A responsive application that provides real-time weather updates and forecasts. Users can search by city and get detailed weather information with an intuitive interface.  
+🔗 [View Project](https://github.com/codewitharjun214/-Weather-Forecast-App-)
 
 ---
 
@@ -84,7 +92,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=radical" height="180" />
 </p>
-
 
 ---
 
