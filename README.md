@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Kadam+Arjun;Full+Stack+Developer+💻;MERN+Stack+Enthusiast+🚀;Final+Year+CS+Student+🎓;Problem+Solver+🧠" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Kadam+Arjun;Full+Stack+Developer+💻;MERN+Stack+Specialist+🚀;Final+Year+Computer+Science+Student+🎓;Building+Scalable+Web+Apps+🧠" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -12,11 +12,12 @@
 
 ## 🌟 About Me  
 
-- 💡 **Name**: Kadam Arjun  
+- 👨‍💻 **Name**: Kadam Arjun  
 - 📍 **Location**: India  
-- 🧠 **Focus Areas**: Full Stack Development, Scalable Web Apps, Cloud Integration  
-- 🛠️ **Currently Working On**: Invoice & Inventory Management System (MERN Stack)  
-- 🎯 **Goal**: To secure a challenging role as a Full-Stack Developer and contribute to impactful projects  
+- 🎓 **Education**: Final Year Computer Science Student  
+- 🧠 **Expertise**: Full Stack Development (MERN Stack)  
+- 🛠️ **Currently Building**: Invoice & Inventory Management System  
+- 🎯 **Career Goal**: To secure a Full-Stack Developer role and contribute to impactful, real-world products  
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
@@ -24,20 +25,20 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kadamarjun214" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/codewitharjun214" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kadamarjun171@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/codewitharjun214" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -62,31 +63,59 @@
 
 ---
 
-## 📌 MERN Stack Projects
+## 🚀 MERN Stack Projects  
 
-### 🧾 [Code Snippet Manager](https://github.com/codewitharjun214/Code-Snippet-Manager)
+### 🧾 Code Snippet Manager  
+🔗 https://github.com/codewitharjun214/Code-Snippet-Manager  
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
-A full-stack application that allows developers to save, organize, and search their favorite code snippets. Features include syntax highlighting, tagging, and dark mode for enhanced productivity.  
-🔗 [View Project](https://github.com/codewitharjun214/Code-Snippet-Manager)
 
-### 🌾 [KisanBazaar – Smart Farmer Marketplace](https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace)
-**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
-A platform connecting farmers directly with consumers, eliminating middlemen. Features include product listings, secure login, and AI-powered insights to help farmers make smarter decisions.  
-🔗 [View Project](https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace)
-
-### 📝 [DevBlog – Personal Blogging Platform](https://github.com/codewitharjun214/DevBlog)
-**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
-A full-stack blogging platform where users can create posts, comment, and categorize content. Includes JWT authentication, responsive UI, and CRUD operations for seamless management.  
-🔗 [View Project](https://github.com/codewitharjun214/DevBlog)
-
-### 🌤️ [Weather Forecast App](https://github.com/codewitharjun214/-Weather-Forecast-App-)
-**Tech Stack**: React.js • OpenWeather API  
-A responsive application that provides real-time weather updates and forecasts. Users can search by city and get detailed weather information with an intuitive interface.  
-🔗 [View Project](https://github.com/codewitharjun214/-Weather-Forecast-App-)
+A developer-focused application to **store, organize, and search code snippets** efficiently.  
+✨ Features include:
+- Syntax highlighting  
+- Tags & categories  
+- Dark mode  
+- Secure authentication  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+### 🌾 KisanBazaar – Smart Farmer Marketplace  
+🔗 https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace  
+**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
+
+A farmer-to-consumer platform eliminating middlemen.  
+✨ Features include:
+- Product listings & orders  
+- Secure login system  
+- AI-powered insights  
+- Responsive UI  
+
+---
+
+### 📝 DevBlog – Blogging Platform  
+🔗 https://github.com/codewitharjun214/DevBlog  
+**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
+
+A full-stack blogging platform with:
+- JWT authentication  
+- CRUD operations  
+- Comments & categories  
+- Mobile-friendly design  
+
+---
+
+### 🎬 Movie Management App  
+🔗 https://github.com/codewitharjun214/Movie-Management-App *(replace with actual repo link)*  
+**Tech Stack**: MongoDB • Express.js • React.js • Node.js  
+
+A complete movie management system that allows users to:
+- Add, update, and delete movies  
+- View movie details  
+- Manage ratings & genres  
+- Implement authentication & REST APIs  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=radical" height="180" />
@@ -95,9 +124,4 @@ A responsive application that provides real-time weather updates and forecasts. 
 
 ---
 
-## 💬 Let's Collaborate!  
-
-I'm open to **internships**, **freelance projects**, and **collaborations**.  
-If you have a web development idea or need a partner to bring your project to life — let’s connect!  
-
-<p align="center"><i>“Code is not just a set of instructions, it's a way to bring ideas into reality.” — Arjun Kadam</i></p>
+⭐ *“Code. Learn. Build. Repeat.”*  
