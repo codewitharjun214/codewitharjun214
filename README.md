@@ -1,11 +1,11 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Kadam+Arjun;Full+Stack+Developer+💻;MERN+Stack+Specialist+🚀;Final+Year+Computer+Science+Student+🎓;Building+Scalable+Web+Apps+🧠" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Kadam+Arjun;Full+Stack+Developer+💻;MERN+Stack+Specialist+🚀;Final+Year+Computer+Science+Student+🎓;Building+Scalable+Web+Apps+🧠" />
 </h1>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codewitharjun214.codewitharjun214" alt="Profile Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codewitharjun214.codewitharjun214" />
 </p>
 
 ---
@@ -15,30 +15,26 @@
 - 👨‍💻 **Name**: Kadam Arjun  
 - 📍 **Location**: India  
 - 🎓 **Education**: Final Year Computer Science Student  
-- 🧠 **Expertise**: Full Stack Development (MERN Stack)  
+- 🧠 **Expertise**: MERN Stack Development  
 - 🛠️ **Currently Building**: Invoice & Inventory Management System  
-- 🎯 **Career Goal**: To secure a Full-Stack Developer role and contribute to impactful, real-world products  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
+- 🎯 **Goal**: To secure a Full-Stack Developer role and work on impactful real-world projects  
 
 ---
 
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kadamarjun214" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kadamarjun214">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/codewitharjun214" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/codewitharjun214">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:kadamarjun171@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/codewitharjun214" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/codewitharjun214">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -67,61 +63,57 @@
 
 ### 🧾 Code Snippet Manager  
 🔗 https://github.com/codewitharjun214/Code-Snippet-Manager  
+
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
 
-A developer-focused application to **store, organize, and search code snippets** efficiently.  
-✨ Features include:
-- Syntax highlighting  
-- Tags & categories  
-- Dark mode  
-- Secure authentication  
+- Save and organize code snippets  
+- Syntax highlighting & tags  
+- Dark mode & authentication  
 
 ---
 
 ### 🌾 KisanBazaar – Smart Farmer Marketplace  
 🔗 https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace  
+
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
 
-A farmer-to-consumer platform eliminating middlemen.  
-✨ Features include:
+- Farmer-to-consumer platform  
 - Product listings & orders  
-- Secure login system  
 - AI-powered insights  
-- Responsive UI  
 
 ---
 
 ### 📝 DevBlog – Blogging Platform  
 🔗 https://github.com/codewitharjun214/DevBlog  
+
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
 
-A full-stack blogging platform with:
 - JWT authentication  
 - CRUD operations  
-- Comments & categories  
-- Mobile-friendly design  
+- Responsive UI  
 
 ---
 
 ### 🎬 Movie Management App  
-🔗 https://github.com/codewitharjun214/Movie-Management-App *(replace with actual repo link)*  
+🔗 https://github.com/codewitharjun214/Mern-Movies-App  
+
+![GitHub stars](https://img.shields.io/github/stars/codewitharjun214/Mern-Movies-App?style=social)
+
 **Tech Stack**: MongoDB • Express.js • React.js • Node.js  
 
-A complete movie management system that allows users to:
-- Add, update, and delete movies  
-- View movie details  
-- Manage ratings & genres  
-- Implement authentication & REST APIs  
+- Add, update & delete movies  
+- Manage genres & ratings  
+- REST APIs & authentication  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*  
+⭐ **“Code. Learn. Build. Repeat.”**
