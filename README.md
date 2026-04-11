@@ -72,15 +72,6 @@
 
 ## 🚀 Featured Projects  
 
-### 🧾 Code Snippet Manager  
-🔗 https://github.com/codewitharjun214/Code-Snippet-Manager  
-
-- Save & manage reusable code snippets  
-- Tag-based filtering + syntax highlighting  
-- Dark mode + authentication  
-
----
-
 ### 🌾 KisanBazaar – Smart Farmer Marketplace  
 🔗 https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace  
 
@@ -110,17 +101,16 @@
 
 ## 📊 Data Analytics Projects  
 
-### 📈 Loan Data Analysis Project  
+### 📈 Loan Analysis Project  
+🔗 https://github.com/codewitharjun214/Loan-Analysis-Project  
 
 - Performed **EDA (Exploratory Data Analysis)** on loan dataset  
-- Cleaned and processed data using **Pandas & NumPy**  
-- Visualized trends using **Matplotlib & Seaborn**  
-- Identified:
-  - Loan approval patterns  
-  - Risk factors  
+- Data cleaning using **Pandas & NumPy**  
+- Built visualizations using **Matplotlib & Seaborn**  
+- Extracted insights:
+  - Loan approval trends  
+  - Risk analysis  
   - Customer segmentation  
-
-👉 (Add your GitHub link here once uploaded)
 
 ---
 
