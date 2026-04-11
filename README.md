@@ -110,7 +110,7 @@
 - Extracted insights:
   - Loan approval trends  
   - Risk analysis  
-  - Customer segmentation  
+  - Customer segmentation
 
 ---
 
