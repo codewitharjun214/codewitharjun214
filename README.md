@@ -117,8 +117,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewitharjun214&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewitharjun214&theme=radical"/>
 </p>
 
 ---
