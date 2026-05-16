@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Data Analytics | Full Stack Developer | MERN Stack Specialist | 
+  🚀 Data Analyst| Full Stack Developer | MERN Stack Specialist | 
 </h3>
 
 <p align="center">
