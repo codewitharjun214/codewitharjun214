@@ -68,7 +68,7 @@ Turning Raw Data into Actionable Business Insights 🚀
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://arjunpersonal.netlify.app">
+<a href="https://kadamarjun.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
