@@ -27,7 +27,7 @@ Turning Raw Data into Actionable Business Insights 🚀
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Final Year Computer Engineering Student (CGPA: **8.0**)
+🎓 BE Computer Science Final Year (CGPA: **8.0**)
 
 📊 Passionate Data Analyst with hands-on experience in real-world datasets
 
