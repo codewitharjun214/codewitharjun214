@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Arjun+Kadam;Data+Analyst;Business+Intelligence+Developer;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Arjun+Kadam;Data+Analyst;Business+Intelligence+Developer;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Scientist"/>
 </h1>
 
 <h3 align="center">
