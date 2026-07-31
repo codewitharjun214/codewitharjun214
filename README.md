@@ -1,58 +1,87 @@
-<!-- Animated Typing Header -->
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Kadam+Arjun;Data+Analyst;Python+Developer;Machine+Learning;Power+BI+Developer;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Arjun+Kadam;Data+Analyst;Business+Intelligence+Developer;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Scientist" />
 </h1>
 
-
-<!-- Coding GIF -->
-<p align="right">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif"
-    alt="Coding"
-    width="380"
-  />
-</p>
-
 <h3 align="center">
-📊 Data Analyst | Python Developer | Data Science Enthusiast
+📊 Data Analyst | SQL | Python | Power BI | Business Intelligence
 </h3>
 
 <p align="center">
-Turning Raw Data into Actionable Business Insights 🚀
+Transforming Raw Data into Actionable Business Insights 🚀
+</p>
+
+<p align="center">
+
+<a href="https://github.com/codewitharjun214">
+<img src="https://komarev.com/ghpvc/?username=codewitharjun214&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/codewitharjun214?tab=followers">
+<img src="https://img.shields.io/github/followers/codewitharjun214?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/codewitharjun214">
+<img src="https://img.shields.io/github/stars/codewitharjun214?style=for-the-badge"/>
+
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+🎓 Final Year Computer Engineering Student
 
-🎓 BE Computer Science Final Year (CGPA: **8.0**)
+📊 Passionate about **Data Analytics, Business Intelligence & Data Science**
 
-📊 Passionate Data Analyst with hands-on experience in real-world datasets
+🐍 Skilled in:
 
-🐍 Skilled in Python, SQL, Power BI, Machine Learning & Data Visualization
+- Python
+- SQL
+- Power BI
+- Excel
+- DAX
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-📈 Experienced in Exploratory Data Analysis (EDA), Dashboard Development and Predictive Analytics
+📈 Experienced in:
 
-💻 Also experienced in MERN Stack Development
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis (EDA)
+
+✔ Dashboard Development
+
+✔ Business Intelligence
+
+✔ Data Visualization
+
+✔ Data Storytelling
 
 🌱 Currently Learning
 
-* Advanced Machine Learning
-* Deep Learning
-* Generative AI
-* Cloud Technologies
+- Machine Learning
+- Deep Learning
+- Advanced SQL
+- Statistics
+- Generative AI
 
 🎯 Career Goal
 
-* Data Analyst
-* Business Analyst
-* Data Scientist
+- Data Analyst
+- Business Analyst
+- Data Scientist
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -80,11 +109,9 @@ Turning Raw Data into Actionable Business Insights 🚀
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
 </p>
-
-### 📊 Data Analytics
 
 <p align="center">
 
@@ -92,134 +119,105 @@ Turning Raw Data into Actionable Business Insights 🚀
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
+<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
 </p>
-
----
-
-# 💼 Professional Experience
-
-## 📊 Data Science Intern
-
-### Greamio Technologies Pvt. Ltd.
-
-📅 7-Month Internship
-
-✔ Cleaned and transformed real-world datasets using Python, Pandas and NumPy
-
-✔ Performed Exploratory Data Analysis (EDA)
-
-✔ Built interactive Power BI dashboards
-
-✔ Applied Machine Learning algorithms
-
-✔ Delivered business insights through visualization
 
 ---
 
 # 🚀 Featured Projects
 
-## 📈 Loan Approval Prediction & EDA
+## 🛡️ Cybersecurity Incident Analytics Dashboard
 
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
+**Python • SQL • Power BI • DAX**
 
 ✔ Data Cleaning
 
-✔ Feature Engineering
-
 ✔ Exploratory Data Analysis
 
-✔ Predictive Modeling
+✔ SQL Business Analysis
+
+✔ Interactive Power BI Dashboard
 
 ✔ Business Insights
 
-🔗 https://github.com/codewitharjun214/Loan-Analysis-Project
+🔗 Repository
+
+https://github.com/codewitharjun214/Cybersecurity-Incident-Analytics-Dashboard
 
 ---
 
-## 🍕 Pizza Sales Analytics Dashboard
+## 💳 Loan Approval Analysis & Risk Assessment
 
-Power BI • Excel • DAX
+**Python • SQL • Power BI • DAX**
+
+✔ Data Cleaning
+
+✔ Exploratory Data Analysis
+
+✔ Risk Assessment
+
+✔ Loan Approval Analysis
 
 ✔ Interactive Dashboard
 
-✔ KPI Analysis
+🔗 Repository
 
-✔ Revenue Tracking
-
-✔ Business Reporting
+https://github.com/codewitharjun214/Loan-Approval-Analysis-and-Risk-Assessment-End-To-End-Analyst-Project
 
 ---
 
-## 🗄 Employee Management Database
+## 👨‍💼 HR Analytics End-to-End Project
 
-MySQL • SQL
+**Python • SQL • Power BI • DAX**
 
-✔ Relational Database Design
+✔ Employee Attrition Analysis
+
+✔ KPI Dashboard
+
+✔ HR Business Insights
+
+✔ Interactive Dashboard
+
+🔗 Repository
+
+https://github.com/codewitharjun214/HR-Analytics-End-to-End-Project
+
+---
+
+## 🗄️ Employee Management System
+
+**MySQL**
+
+✔ Database Design
+
+✔ SQL Queries
 
 ✔ CRUD Operations
 
-✔ Stored Procedures
-
 ✔ Views
 
-✔ SQL Optimization
+✔ Business Queries
 
-🔗 https://github.com/codewitharjun214/Employee-Management-System-Sql
+🔗 Repository
 
----
+https://github.com/codewitharjun214/Employee-Management-System-Sql
 
-## 🌾 KisanBazaar
+---   
 
-React • Node • MongoDB
-
-✔ Farmer Marketplace
-
-✔ Product Management
-
-✔ AI-powered Recommendations
-
-🔗 https://github.com/codewitharjun214/KisanBazaar-Smart-Farmer-Marketplace
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharjun214&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharjun214&theme=tokyo-night"/>
-
-</p>
----
-
-# 🎯 Core Competencies
+# 📊 Core Skills
 
 <p align="center">
 
@@ -229,35 +227,67 @@ React • Node • MongoDB
 
 <img src="https://img.shields.io/badge/EDA-FF9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Statistical%20Analysis-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Visualization-E91E63?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Dashboard%20Development-2196F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-3F51B5?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Business%20Intelligence-3F51B5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL%20Optimization-795548?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🎓 Education
+# 📈 GitHub Statistics
 
-## Bachelor of Engineering (Computer Engineering)
+<p align="center">
 
-🏫 Vishwabharti Academy's College of Engineering
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewitharjun214&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-📍 Ahmednagar, Maharashtra
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codewitharjun214&theme=tokyonight&hide_border=true"/>
 
-🎓 CGPA: **8.0**
+</p>
 
-📅 Graduation Year: **2026**
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewitharjun214&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewitharjun214&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Featured Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
 
 ---
 
@@ -265,86 +295,77 @@ React • Node • MongoDB
 
 🏆 Tata Group (Forage) — Data Visualization: Empowering Business with Effective Insights
 
-🏆 Data Science Internship Certificate — Greamio Technologies Pvt. Ltd.
+🏆 Data Science Internship
 
-🏆 TCS iON — Soft Skills
+🏆 AWS Virtual Experience Program
 
-🏆 Great Learning — Git & GitHub
+🏆 Git & GitHub
 
-🏆 AWS Virtual Experience
-
-🏆 NxtWave — AI Tools
+🏆 TCS iON Soft Skills
 
 ---
 
 # 🌱 Currently Learning
 
-* 🤖 Machine Learning
-* 🧠 Deep Learning
-* ⚡ Power BI Advanced Dashboards
-* ☁️ Cloud Technologies
-* 📈 Advanced SQL
-* 🐍 Python for Data Science
-* 💬 Generative AI & LLMs
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Advanced SQL
+- 📊 Statistics
+- ⚡ Advanced Power BI & DAX
+- 🤖 Generative AI
 
 ---
 
-# 📅 2026 Goals
+# 🎯 2026 Goals
 
-✔ Land a Data Analyst Role
+✅ Land a Data Analyst Role
 
-✔ Build 20+ Real-world Data Projects
+✅ Build 20+ End-to-End Data Analytics Projects
 
-✔ Master Power BI
+✅ Master SQL
 
-✔ Learn Deep Learning
+✅ Master Power BI
 
-✔ Contribute to Open Source
+✅ Learn Machine Learning
 
-✔ Achieve 500+ GitHub Contributions
+✅ Strengthen Data Storytelling Skills
 
-✔ Become Job Ready in AI & Data Science
-
----
-
-# 📊 Fun Facts
-
-💡 I enjoy transforming messy datasets into meaningful insights.
-
-📊 I love building dashboards that help businesses make smarter decisions.
-
-🚀 Every project is an opportunity to learn something new.
-
-☕ Coffee + Python + SQL = Productivity
+✅ Contribute to Open Source Analytics Projects
 
 ---
 
-# 😂 Random Dev Joke
+# 📊 My Analytics Journey
 
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
+```text
+Python 🐍
+    │
+    ▼
+Data Cleaning
+    │
+    ▼
+Exploratory Data Analysis (EDA)
+    │
+    ▼
+SQL Analysis
+    │
+    ▼
+Power BI Dashboard Development
+    │
+    ▼
+Business Insights
+    │
+    ▼
+Machine Learning
+```
 
 ---
 
-# 💬 Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Let's Connect
+# 📬 Let's Connect
 
 <p align="center">
 
 <a href="mailto:kadamarjun171@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kadamarjun214">
@@ -355,7 +376,7 @@ React • Node • MongoDB
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://arjunpersonal.netlify.app">
+<a href="https://kadamarjun.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -363,19 +384,24 @@ React • Node • MongoDB
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-
-<h3 align="center">
-📊 Turning Data into Decisions | 💻 Building Solutions | 🚀 Always Learning
-</h3>
+<h2 align="center">
+📊 Turning Data into Decisions
+</h2>
 
 <p align="center">
-<i>"Without data, you're just another person with an opinion."</i><br>
+
+<i>"Without data, you're just another person with an opinion."</i>
+
+<br>
+
 <b>— W. Edwards Deming</b>
+
 </p>
 
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:4B0082&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:1B1464&height=140&section=footer"/>
+
 </p>
