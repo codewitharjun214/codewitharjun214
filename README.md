@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arjun Kadam
+# 👋 Hi  I'm Arjun Kadam
 
 <h3 align="center">
   📊 Data Analyst | SQL | Python | Power BI | Excel
