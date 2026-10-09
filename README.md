@@ -295,7 +295,7 @@ A database-focused project demonstrating practical SQL and relational database c
 ---
 
 <h2 align="center">
-  📊 Turning Data Into Decisions
+  📊 Turning Data Into Insights
 </h2>
 
 <p align="center">
